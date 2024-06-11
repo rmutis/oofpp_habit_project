@@ -1,0 +1,5 @@
+click
+questionary
+pandas
+pytest
+freezegun
